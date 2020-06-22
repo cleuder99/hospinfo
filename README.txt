@@ -10,5 +10,4 @@ Intalação
 Funções Não implementadas
 - Usuário realizar o cadastro do médico.
 - Administrador realizar a validação do cadastro de médico realizado pelu usuário.
-- Listar Comentário.
 - Excluir Comentário.
