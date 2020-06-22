@@ -8,6 +8,5 @@ Intalação
 - Abrir o navegador e acessar o localhost
 
 Funções Não implementadas
-- Usuário realizar o cadastro do médico.
 - Administrador realizar a validação do cadastro de médico realizado pelu usuário.
 - Excluir Comentário.
